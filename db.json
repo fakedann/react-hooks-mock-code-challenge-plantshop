@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "beautiful",
+      "image": "https://photographylife.com/wp-content/uploads/2015/04/Sarah-Marino-1.jpg",
+      "price": "0.01",
+      "id": 8
+    },
+    {
+      "name": "beautiful",
+      "image": "https://photographylife.com/wp-content/uploads/2015/04/Sarah-Marino-1.jpg",
+      "price": "0.01",
+      "id": 9
     }
   ]
 }
